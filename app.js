@@ -33,5 +33,4 @@ function toggleLike(arr, id) {
   renderPosts(posts, list);
 }
 
-
 renderPosts(posts, list);
